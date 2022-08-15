@@ -29,14 +29,15 @@
 ## Installation
 
 ```bash
-$ npm install
+$ npm install or yarn
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+Create .env file
+$ docker-compose up --build
 
 # watch mode
 $ npm run start:dev
